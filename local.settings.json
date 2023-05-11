@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=redefineemail95fa88;AccountKey=dfS3C8xdOI8mWBgrGSRtdaK9NZCJX45/VBdnrRrHYpw7UuiA85atmdKZ5+jboDnam9cZRRnK7TP++AStVOSEWA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~18",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=redefineemail95fa88;AccountKey=dfS3C8xdOI8mWBgrGSRtdaK9NZCJX45/VBdnrRrHYpw7UuiA85atmdKZ5+jboDnam9cZRRnK7TP++AStVOSEWA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "redefine-email2ce450",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "b61432e3-7b9a-4194-beb8-3a655dd99782"
+  }
+}
